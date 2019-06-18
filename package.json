@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-formspree",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Gatsby source plugin that fetches formspree submissions",
   "main": "index.js",
   "scripts": {
